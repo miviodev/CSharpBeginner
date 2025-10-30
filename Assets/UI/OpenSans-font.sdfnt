@@ -1,0 +1,10 @@
+!SpriteFont
+Id: 8f491e26-4bcd-4788-a26e-05e69b00a3c4
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+FontSource: !FileFontProvider
+    Source: !file ../../Resources/UI/OpenSans/OpenSans-Regular.ttf
+FontType: !RuntimeRasterizedSpriteFontType {}
+DefaultCharacter: '@'
+Spacing: 1.0
+LineSpacing: 1.0

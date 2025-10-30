@@ -1,0 +1,8 @@
+!Texture
+Id: d0b83d28-d040-43ee-80c4-cc7510ae6437
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Textures/wood_table_tex_Col.png
+IsCompressed: false
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

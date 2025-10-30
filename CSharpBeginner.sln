@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBeginner.Windows", "CSharpBeginner.Windows\CSharpBeginner.Windows.csproj", "{B803FDB7-C04E-4664-A68B-FB2A27ED2CAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBeginner.Game", "CSharpBeginner.Game\CSharpBeginner.Game.csproj", "{2C3027C7-5869-4E83-807B-6D5D986B9080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B803FDB7-C04E-4664-A68B-FB2A27ED2CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B803FDB7-C04E-4664-A68B-FB2A27ED2CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B803FDB7-C04E-4664-A68B-FB2A27ED2CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B803FDB7-C04E-4664-A68B-FB2A27ED2CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3027C7-5869-4E83-807B-6D5D986B9080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3027C7-5869-4E83-807B-6D5D986B9080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3027C7-5869-4E83-807B-6D5D986B9080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3027C7-5869-4E83-807B-6D5D986B9080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6FF4D3-D183-4D10-BE37-905162BA0397}
+	EndGlobalSection
+EndGlobal

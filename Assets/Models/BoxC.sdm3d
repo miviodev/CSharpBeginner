@@ -1,0 +1,19 @@
+!Model
+Id: 49b1ca40-564c-4cbe-8903-e0f7fde99e3b
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Models/StrideCrate.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    e60b5b1aec04dfad5b137e381df5f2e1:
+        Name: XenkoLogo
+        MaterialInstance:
+            Material: 70475901-8569-4ccd-abf9-c07484fc5ae4:Materials/LogoC
+    2c46d11775ad23c975ad23c975ad23c9:
+        Name: Fame
+        MaterialInstance:
+            Material: dbd657bf-6e07-4910-afe2-7ee3c9f550f9:Materials/FrameA
+Modifiers: {}
+~SourceHashes:
+    6672f906f47d75d1c83a71d9c9715aeb~../../Resources/Models/StrideCrate.fbx: 6e3a5526c1cdb7001c9b7ea51ac583a0

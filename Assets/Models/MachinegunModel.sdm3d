@@ -1,0 +1,27 @@
+!Model
+Id: a1b18e45-d790-4b97-82a9-db79ead2be20
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Models/MachinegunModel.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    77f0be4f0cd36cd479800d2579800d25:
+        Name: matteMT
+        MaterialInstance:
+            Material: 7f3b790c-bc74-44ca-bb18-68c0e4f896b7:Materials/MattBlackMachinegun
+    98c4d20c91aa1618068f92bf068f92bf:
+        Name: glossMT
+        MaterialInstance:
+            Material: 8dbbe54f-9c27-4e33-9711-0a0183906801:Materials/BodyWhite
+    7b8394fb681bf353e28097d3e28097d3:
+        Name: glowMT
+        MaterialInstance:
+            Material: cc4b11b9-6175-4ceb-a778-8a3e1827286b:Materials/Emissive
+    b158ca41e15b46f8b2746c0a97fdd6ee:
+        Name: semiGlossMT
+        MaterialInstance:
+            Material: ab5e2807-bfe2-4a8b-9c7f-f06af6ef2555:Materials/BodyGray
+Modifiers: {}
+~SourceHashes:
+    10b47b21e557752fe8ffbec31774bca1~../../Resources/Models/MachinegunModel.fbx: f681403f434781ff4a4b3139aa4f6471

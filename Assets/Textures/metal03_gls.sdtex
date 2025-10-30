@@ -1,0 +1,7 @@
+!Texture
+Id: 6955432f-6ebb-44b3-a2b9-644043a1cbc6
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Stand/metal03_gls.dds
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

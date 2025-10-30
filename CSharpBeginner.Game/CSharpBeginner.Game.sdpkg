@@ -1,0 +1,35 @@
+!Package
+SerializedVersion: {Assets: 3.1.0.0}
+Meta:
+    Name: CSharpBeginner.Game
+    Version: 1.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: CSharpBasics
+    Dependencies: null
+AssetFolders:
+    -   Path: !dir ../Assets
+    -   Path: !dir Effects
+ResourceFolders:
+    - !dir ../Resources
+OutputGroupDirectories: {}
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets:
+    - 0b14863e-1145-403c-a491-0194acbf9b8a:Scenes/Basics/Virtual buttons
+    - 1a0995e4-3506-47be-a396-e54c340768db:Scenes/Basics/Removing entities
+    - 40d5a824-bf4b-47e6-8c7f-82e428adff64:Scenes/Basics/Cloning entities
+    - 439b8f3b-77dd-4781-a666-faf9ef91911d:Scenes/Basics/TransformPosition
+    - 46ba540d-8139-4929-b1f1-cb2176465921:Scenes/Basics/DeltaTime
+    - 72b7d5fa-ff5d-4cb4-b0c9-8e065be3f0c4:Scenes/Basics/Getting a component
+    - 79af0b55-a70f-4c7a-8f5b-967d55661736:StrideUILibrary
+    - 9d4989fb-57e2-4d06-bf7b-4f037fc775b0:Scenes/Basics/Child entities
+    - b807a12d-37bd-4d4f-aaf6-1a360e4f30e6:Scenes/Basics/Keyboard input
+    - c3d92953-9781-4ec6-bc3c-f34ce234f935:Scenes/Basics/Instantiating prefabs
+    - c642a5de-ac6d-4fba-971d-de4d5e39b60f:Scenes/Basics/Linear Interpolation
+    - c6d89cf6-9b38-481d-8d7b-771ec16c38db:Scenes/Basics/Adding a component
+    - cea8c4d2-5931-48a7-8b23-5dd8244cc039:Scenes/Basics/Mouse input
+    - dac6f4a2-ffd8-43e3-b81b-733aa21ab98d:Scenes/Basics/Properties
+    - dffb2a7f-e47d-4ed6-adb8-4f5d435da35c:Scenes/Basics/Getting the entity
+    - ff15d0ac-f2ad-4c83-8f68-9e9372cca2f4:Scenes/Basics/Loading content
